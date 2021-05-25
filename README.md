@@ -4,6 +4,10 @@
 
 ###  Axios pkg was used to send the POST requests.
 
+![List all exercises](https://github.com/agault/MERN-ExerciseTracker/blob/main/images/List.PNG)
+
+![View of Mongo DB](https://github.com/agault/MERN-ExerciseTracker/blob/main/images/mongoat.PNG)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
