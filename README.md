@@ -1,3 +1,9 @@
+#This is a basic MERN app with full CRUD capabilities and two collections, Users and Exercises, in Mongodb Atlas.
+
+###  This app allows multiple users to be created using text input fields. That information is then sent to MongoDB and stored. When creating a new exercise those users are then generated into a drop down menu. All The exercises can be seen in the List view where Edit and Delete can be accessed. 
+
+Axios pkg was used to send the POST requests.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
